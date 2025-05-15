@@ -62,3 +62,9 @@ Start the Streamlit app using the following command: <br>
 `streamlit run app.py`
 
 After running the command, the application should open in your default web browser at http://localhost:8501/.
+
+# **Accuracy**
+
+The improved accuracy for Skin Type Classification model is **89%**. <br>
+
+The improved accuracy for Skin Disease Detection model is **92%**.
