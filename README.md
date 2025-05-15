@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/a1e0157e-4bfd-4948-b125-43b90e036892)
 
-### 🌟 **Features**
+### 🌟 **Features** <br>
 
 The project offers a comprehensive set of tools to assist users in understanding and improving their skin health:
 
@@ -36,7 +36,7 @@ The app is organized into five easy-to-navigate tabs:
 ⚠️ Doctor Consultation Advice
 
 
-### **Getting Started**
+### **Getting Started** <br>
 ## **1. Clone the Repository :** <br>
 git clone https://github.com/dikshithakalva/Skin_Analyser.git <br>
 cd Skin_Analyser
