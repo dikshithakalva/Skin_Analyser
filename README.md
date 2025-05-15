@@ -45,18 +45,18 @@ cd Skin_Analyser
 Use a virtual environment to manage dependencies <br>
 `python -m venv venv` <br>
 ### Activate the virtual environment: <br>
-On Windows: `venv\Scripts\activate` <br>
-On Unix or MacOS: `source venv/bin/activate` <br>
+**On Windows:** `venv\Scripts\activate` <br>
+**On Unix or MacOS:** `source venv/bin/activate` <br>
 
 ### **3. Install Dependencies :**
 Install the required Python packages using pip <br>
-pip install -r requirements.txt <br>
+`pip install -r requirements.txt` <br>
 
 ### **4. Add Model Files :**
 Ensure that the trained model files (skin_type_model.h5, skin_disease_model.h5) are placed inside the model/ directory. These files are essential for the application to function correctly. <br>
 
 ### **5. Run the Streamlit Application :**
 Start the Streamlit app using the following command: <br>
-streamlit run app.py
+`streamlit run app.py`
 
 After running the command, the application should open in your default web browser at http://localhost:8501/.
