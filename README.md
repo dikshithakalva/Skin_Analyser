@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/a1e0157e-4bfd-4948-b125-43b90e036892)
 
-### 🌟 **Features** <br>
+# 🌟 **Features** <br>
 
 The project offers a comprehensive set of tools to assist users in understanding and improving their skin health:
 
@@ -36,7 +36,27 @@ The app is organized into five easy-to-navigate tabs:
 ⚠️ Doctor Consultation Advice
 
 
-### **Getting Started** <br>
-## **1. Clone the Repository :** <br>
+# **Getting Started** <br>
+### **1. Clone the Repository :** <br>
 git clone https://github.com/dikshithakalva/Skin_Analyser.git <br>
 cd Skin_Analyser
+
+### **2. Create a Virtual Environment :** <br>
+Use a virtual environment to manage dependencies <br>
+python -m venv venv <br>
+### Activate the virtual environment: <br>
+On Windows: venv\Scripts\activate <br>
+On Unix or MacOS: source venv/bin/activate <br>
+
+### **3. Install Dependencies :**
+Install the required Python packages using pip <br>
+pip install -r requirements.txt <br>
+
+### **4. Add Model Files :**
+Ensure that the trained model files (skin_type_model.h5, skin_disease_model.h5) are placed inside the model/ directory. These files are essential for the application to function correctly. <br>
+
+### **5. Run the Streamlit Application :**
+Start the Streamlit app using the following command: <br>
+streamlit run app.py
+
+After running the command, the application should open in your default web browser at http://localhost:8501/.
