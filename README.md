@@ -55,7 +55,7 @@ Install the required Python packages using pip <br>
 `pip install -r requirements.txt` <br>
 
 ### **4. Add Model Files :**
-Ensure that the trained model files (`KlasifikasiWajah-pest-65.23.h5` for Skin type model,`resnet18_skin_disease_model.h5` for Skin Disease model) are placed inside the model/ directory. These files are essential for the application to function correctly. <br>
+Ensure that the trained model files (`KlasifikasiWajah-pest-65.23.h5` for Skin type model, `resnet18_skin_disease_model.h5` for Skin Disease model) are placed inside the model/ directory. These files are essential for the application to function correctly. <br>
 
 ### **5. Run the Streamlit Application :**
 Start the Streamlit app using the following command: <br>
