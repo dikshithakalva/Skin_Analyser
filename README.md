@@ -17,6 +17,10 @@ The project can identify common skin conditions such as Acne, Eczema, Melanoma, 
 Product recommendations are generated based on the detected skin type (not disease). Instead of using deep learning for this feature, a rule-based matching system is used to suggest appropriate cleansers, moisturizers, and sunscreens. The project provides dietary tips and food recommendations that support healthy and glowing skin. It includes both what to eat and what to avoid, helping users adopt a skin-friendly lifestyle.
 
 
+⚠️ **Doctor Consultation Advice :**
+This tab provides a critical reminder that while AI can offer insights, it is not a substitute for medical expertise. Users are encouraged to consult a dermatologist for proper diagnosis and treatment—especially for any severe or suspicious skin conditions.
+
+
 💻**User-Friendly Streamlit Interface :** 
 
 The app is organized into five easy-to-navigate tabs:
@@ -28,4 +32,6 @@ The app is organized into five easy-to-navigate tabs:
 🩺 Skin Disease Detection
 
 🧴🥗 Product Recommendations and  Healthy Skin Diet
+
+⚠️ Doctor Consultation Advice
 
