@@ -43,10 +43,10 @@ cd Skin_Analyser
 
 ### **2. Create a Virtual Environment :** <br>
 Use a virtual environment to manage dependencies <br>
-python -m venv venv <br>
+`python -m venv venv` <br>
 ### Activate the virtual environment: <br>
-On Windows: venv\Scripts\activate <br>
-On Unix or MacOS: source venv/bin/activate <br>
+On Windows: `venv\Scripts\activate` <br>
+On Unix or MacOS: `source venv/bin/activate` <br>
 
 ### **3. Install Dependencies :**
 Install the required Python packages using pip <br>
