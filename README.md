@@ -17,11 +17,14 @@ Product recommendations are generated based on the detected skin type (not disea
 
 
 💻**User-Friendly Streamlit Interface :** 
+
 The app is organized into five easy-to-navigate tabs:
 
-
 🧾 Introduction & Project Overview
+
 🧬 Skin Type Detection
+
 🩺 Skin Disease Detection
+
 🧴🥗 Product Recommendations and  Healthy Skin Diet
 
